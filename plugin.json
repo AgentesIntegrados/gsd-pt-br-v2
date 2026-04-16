@@ -1,0 +1,11 @@
+{
+  "name": "gsd-pt-br",
+  "version": "1.0.0",
+  "description": "Tradução completa do GSD (Get Shit Done) para Português do Brasil",
+  "author": {
+    "name": "2a"
+  },
+  "license": "MIT",
+  "keywords": ["gsd", "pt-br", "portuguese", "tradução", "workflow"],
+  "skills": "skills/"
+}
